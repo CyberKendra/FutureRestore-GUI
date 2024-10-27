@@ -79,7 +79,7 @@ See [how to use FutureRestore](https://ios.cfw.guide/futurerestore).
 
 ## Third-Party Assets
 
-Download FutureRestore using the button included in the GUI, or manually from [here](https://github.com/futurerestore/futurerestore/releases). Download target iPSW from [iPSW.me](https://ipsw.me) or [iPSW.dev](https://ipsw.dev). 
+Download FutureRestore using the button included in the GUI, or manually from [here](https://github.com/futurerestore/futurerestore/releases). Download target iPSW from [iPSWFile.com](https://ipswfile.com)  [iPSW.me](https://ipsw.me) or [iPSW.dev](https://ipsw.dev). 
 
 ## Troubleshooting
 
